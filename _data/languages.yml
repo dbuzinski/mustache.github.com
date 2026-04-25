@@ -105,6 +105,8 @@
   url: https://github.com/benjamindblock/odin-mustache
 - name: Arduino
   url: https://github.com/floatplane/ministache
+- name: MATLAB
+  url: https://github.com/dbuzinski/matstache
 
 # TODO: include handlebars implementations?
 # - name: Java
